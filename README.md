@@ -7,11 +7,21 @@ Currently NOT available for jobs... just yet!
 ### Problem Solving
 - [solved.ac](https://solved.ac/profile/heeboy007, "solved.ac")
 - [BeakJoon Online Judge](https://www.acmicpc.net/user/heeboy007)
+- [CodeForce](https://codeforces.com/profile/heeboy007)
 
 <p align="center">
   <a href="https://solved.ac/profile/heeboy007">
     
   ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeboy007)
+    
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://codeforces.com/profile/heeboy007">
+
+    [![CodeForces Profile](http://cf.leed.at?id=heeboy007)](https://codeforces.com/profile/heeboy007)
     
   </a>
 </p>
