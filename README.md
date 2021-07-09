@@ -17,12 +17,11 @@ Currently NOT available for jobs... just yet!
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://codeforces.com/profile/heeboy007">
-
-    [![CodeForces Profile](http://cf.leed.at?id=heeboy007)](https://codeforces.com/profile/heeboy007)
     
+    ![CodeForces Profile](http://cf.leed.at?id=heeboy007)
+
   </a>
 </p>
 
