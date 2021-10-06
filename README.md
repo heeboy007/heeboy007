@@ -1,8 +1,9 @@
 
 ### Skills
 Currently NOT available for jobs... just yet!
-- languages : C, C++, Ruby
-- frameworks : Rails, Unity
+- languages : C, C++, Python, Ruby
+- Frameworks : Rails, Unity
+- Also Linux-friendly!
 
 ### Problem Solving
 - [solved.ac](https://solved.ac/profile/heeboy007, "solved.ac")
