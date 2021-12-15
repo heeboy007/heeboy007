@@ -1,7 +1,7 @@
 
 ### Skills
-Currently NOT available for jobs... just yet!
-- languages : C, C++, Python, Ruby
+WARNING : Below list is made out of skill that I WANT TO get, not the skill that I ALREADY HAVE.
+- languages : C, C++, Ruby
 - Frameworks : Rails, Unity
 - Also Linux-friendly!
 
@@ -28,20 +28,13 @@ Currently NOT available for jobs... just yet!
     
 ![CodeForces Profile](http://cf.leed.at?id=heeboy007)
 
-
 This README was inspired by someone I follow! Just mentioning.
 
-<!--
-**heeboy007/heeboy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on YeeMatHong repo with ![malkoG](https://github.com/malkoG).
+- 🌱 I’m currently learning General RoR(Ruby on Rails)
+- 👯 I’m looking to collaborate on any opensource projects, especially on TDD.
+- 🤔 I’m looking for help with getting a internship.
+- 💬 Ask me about simple PS knowledges(probably visiting my blog would be nice).
+- 📫 How to reach me: through e-mail
+- 😄 Pronouns: I-LIKE-CODING-TOO-MUCH guy
+- ⚡ Fun fact: I'd thought i had the skills but i'm not lol
