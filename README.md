@@ -1,8 +1,8 @@
 
 ### Skills
 WARNING : Below list is made out of skill that I WANT TO get, not the skill that I ALREADY HAVE.
-- languages : C, C++, Ruby
-- Frameworks : Rails, Unity
+- languages : C, C++, HTML, CSS, Ruby
+- Frameworks : Node.js, React, Vue, Rails, Unity
 - Also Linux-friendly!
 
 ### Problem Solving
