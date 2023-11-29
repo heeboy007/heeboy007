@@ -1,9 +1,8 @@
 
 ### Skills
-WARNING : Below list is made out of skill that I WANT TO get, not the skill that I ALREADY HAVE.
-- languages : C, C++, HTML, CSS, Ruby
-- Frameworks : Node.js, React, Vue, Rails, Unity
-- Also Linux-friendly!
+- languages : C/C++(Learnt for PS), HTML/CSS/JS(for Webpage buliding), Ruby(for RoR)
+- Frameworks/Libaraies : React, Vue, Rails, Unity
+- Also Linux-friendly!(I've revived a dead linux machine by grub once.)
 
 ### Problem Solving
 - [solved.ac](https://solved.ac/profile/heeboy007, "solved.ac")
@@ -30,11 +29,11 @@ WARNING : Below list is made out of skill that I WANT TO get, not the skill that
 
 This README was inspired by someone I follow! Just mentioning.
 
-- 🔭 I’m currently working on YeeMatHong repo with ![malkoG](https://github.com/malkoG).
-- 🌱 I’m currently learning General RoR(Ruby on Rails)
+- 🔭 I’m currently working on making a simple game site(you can play yacht on there).
+- 🌱 I’m currently learning general web-based stacks, express.js, react, such stuffs.
 - 👯 I’m looking to collaborate on any opensource projects, especially on TDD.
 - 🤔 I’m looking for help with getting a internship.
-- 💬 Ask me about simple PS knowledges(probably visiting my blog would be nice).
-- 📫 How to reach me: through e-mail
+- 💬 Ask me about anything about me questions are ALLOWed.
+- 📫 How to reach me: NOT through e-mail(Will ignore it.), Please send me a discord DM (SomeChiper#4280)
 - 😄 Pronouns: I-LIKE-CODING-TOO-MUCH guy
-- ⚡ Fun fact: I'd thought i had the skills but i'm not lol
+- ⚡ Fun fact: Life is not a code, but codeable. Let's make our own way!
