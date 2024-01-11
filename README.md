@@ -17,15 +17,7 @@
   ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeboy007)
     
   </a>
-  <a href="https://www.codewars.com/users/heeboy007">
-  
-   ![Codewars Profile](https://www.codewars.com/users/heeboy007/badges/large)
-    
-  </a>
 </p>
-
-    
-![CodeForces Profile](http://cf.leed.at?id=heeboy007)
 
 This README was inspired by someone I follow! Just mentioning.
 
